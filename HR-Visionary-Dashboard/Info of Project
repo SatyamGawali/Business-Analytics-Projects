@@ -1,1 +1,59 @@
 
+👩‍💼 HR Visionary Dashboard
+🛠 Tool: Power BI
+📅 Focus: Employee demographics, salary, growth, and HR metrics
+📍 Filters: Gender, First Characters, Job Title
+
+🌟 Key Metrics:
+    👥 Total Headcount: 161
+    💵 Average Salary: $54K
+    🏖️ Average Leave Balance: 16 days
+    📌 LBL > 20 days: 29 employees
+
+📊 Visual Insights:
+   🧑‍🤝‍🧑 Gender Distribution:
+         👩 Female: 88 (54.66%)
+         👨 Male: 73 (45.34%)
+
+🏆 Average Leave Balance by Job Title:
+         📦 Packaging Associate – 18
+         🧾 Sales Representative – 17
+         🏭 Production Operator – 17
+         📢 Marketing Specialist – 17
+         🔬 Research Scientist – 17
+         💼 Marketing Manager – 16
+         🍫 Chocolatier – 16
+         🔍 Research Analyst – 15
+         🧑‍💻 Product Manager – 15
+         ✅ Quality Control – 15
+
+🛠️ What Do They Do?
+        📦 Packaging Associate – 22 staff
+        🏭 Production Operator – 20
+        🧾 Sales Representative – 18
+        🍫 Chocolatier – 17
+        ✅ Quality Control – 17
+        🧑‍💻 Product Manager – 16
+        🔍 Research Analyst – 16
+        🔬 Research Scientist – 15
+        💼 Marketing Manager – 10
+        📢 Marketing Specialist – 10
+
+🎓 Qualifications vs Salary:
+-Color-coded scatter plot:
+       🔵 Bachelor's Degree
+       🟠 Diploma
+       🟢 Master's Degree
+       🟣 High School Diploma
+
+-Salary range spans from $20K to $90K.
+
+📈 Growth Over Time (We Have Grown):
+       2016 – 1 employee
+       2018 – 21 employees
+       2020 – 62 employees
+       2023 – 161 employees
+
+🧾 Detailed Employee Table:
+      -Contains: Emp ID, Name, Job Title, and Salary
+      -🧑‍💻 Many top earners are Product Managers with salaries in the range of $82K to $85K
