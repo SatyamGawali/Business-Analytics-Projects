@@ -1,43 +1,31 @@
- 💼 Business Finance Insights Dashboard
+ 
+📊 Business Finance Insights Dashboard
+🛠 Tool: Power BI
+📅 Period Covered: January 2023 – February 2024
+📈 Focus: Financial Sales Monitoring & Team Performance
 
-Tool: Power BI   
-Timeline Analyzed:** Jan 2023 – Feb 2024
+🧾 Project Overview:
+The Business Finance Insights dashboard provides a comprehensive view of sales performance across time. It tracks actual sales versus targets, highlights key variances, and assesses team and individual contributions — helping management make informed decisions.
 
----
+🌟 Key Features:
+-Monthly Sales vs. Target Comparison with clear visual bars.
+-Variance Analysis — both dollar ($) and percentage (%) wise.
+-Salesperson Performance Table with actual vs. target, variance %, and trendlines.
+-Narrative Summary section auto-generates insights and trend interpretations.
+-Target Achievement Tracker showing number of months goals were met (2 out of 14).
+-Team-Based Filtering to isolate and analyze group-wise performance.
 
-## 📌 Project Description
+🔍 Insights Identified:
+-Only 2 out of 14 months met or exceeded sales targets.
+-Actual Sales declined by 14.54% over the year.
+-A major drop of 24.87% occurred between Nov 2023 and Feb 2024.
+-Sales Target rose until Sept 2023, then dropped sharply.
+-Top Performers like Barr Faughny and Van Tuxwell showed strong trends.
+-Underperformance in many months indicates room for strategic improvement.
 
-The **Business Finance Insights** dashboard provides a comprehensive financial overview of monthly sales performance relative to targets for a fictional sales organization. This report helps monitor actual vs. target sales, track variance trends, and evaluate individual salesperson contributions to overall revenue performance.
-
----
-
-## 📊 Key Features
-
-- Total Sales vs Target Comparison: Monthly bar chart tracking actual vs. target sales with variance percentage labels.
-- Variance Analysis: Detailed breakdown of monthly and year-to-date (YTD) variance amounts and percentage differences.
-- Salesperson Table: Individual sales performance compared against targets with trend indicators and variance visualizations.
-- Performance Summary (Narrative): Auto-generated insights highlighting trends, inflection points, and month-over-month comparisons.
-- Target Achievement Tracker:A visual summary of months where sales targets were met out of 14 months.
-- Interactive Filters:Filter by team (Delish, Juices, Tempo, Yummies) for detailed segment analysis.
-
----
-
-## 📈 Insights Uncovered
-
-- Only **2 out of 14 months** met or exceeded sales targets.
-- **Total Sales Actual** showed a **14.54%** decline over the analysis period.
-- The largest downturn began in **November 2023**, dropping by **24.87%** over 3 months.
-- Despite performance drops, certain team members like **Barr Faughny** and **Van Tuxwell** demonstrated resilience with positive variance trends.
-- Sales variance suggests missed opportunities and potential areas for realignment in target setting or sales strategy.
-
----
-
-## 🛠️ Skills & Tools Used
-
-- Power BI
-- Data Visualization
-- DAX Measures & KPIs
-- Variance Analysis
-- Time Series Trend Analysis
-- Storytelling with Data
-
+🧠 Skills & Tools Used:
+-Power BI dashboards
+-DAX for dynamic calculations
+-Time series analysis
+-Data storytelling
+-Team performance benchmarking
