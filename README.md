@@ -1,3 +1,4 @@
+📊 Sales Trend & Forecasting
 🔧 Tool: Power BI
 
 📌 Project Description
