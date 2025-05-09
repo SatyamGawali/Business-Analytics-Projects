@@ -1,1 +1,43 @@
+🛒 Amazing Mart – Sales & Profit Dashboard
 
+🛠 Tool: Power BI
+📅 Period Covered: 12-month data (Monthly trend)
+📍 Scope: Sales, Profit, Region-wise distribution, and category analysis
+
+🧾 Dashboard Overview:
+This dashboard presents a detailed analysis of sales and profit performance at Amazing Mart. It highlights top-performing regions and product categories, provides regional breakdowns, and enables granular filtering through slicers (Ship Mode, Region, Category).
+
+🌟 Key Highlights:
+💰 Total Sales: ₹2.35M
+📈 Total Profit: ₹283.2K
+📊 Profit Margin: 12.06%
+📦 Total Quantity Sold: 30K
+
+🗂️ Insights by Category (Profit & Sales):
+🖇️ Office Supplies
+    -Profit: ₹125K
+    -Sales: ₹823.7K
+💻 Technology
+    -Profit: ₹108.6K
+    -Sales: ₹886.0K
+🛋️ Furniture
+    -Profit: ₹50K
+    -Sales: ₹638.8K
+
+🌍 Region-wise Distribution:
+🧭 Total Sales by Region
+     -North: ₹1.315M (56%)
+     -South: ₹517K (22.02%)
+     -Central: ₹516K (21.97%)
+
+💸 Total Profit by Region
+     -North: ₹157.6K (55.65%)
+     -South: ₹71.4K (25.22%)
+     -Central: ₹54.2K (19.12%)
+
+🧠 Skills & Tools Used:
+     📊 Power BI visualization techniques
+     📅 Time intelligence for trendlines
+     🌍 Geo mapping (Map visual)
+     🧮 DAX measures for totals and margins
+     📁 Hierarchical filters (slicers)
