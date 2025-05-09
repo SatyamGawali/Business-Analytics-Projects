@@ -1,7 +1,7 @@
 📊 Sales Trend & Forecasting
 🔧 Tool: Power BI
 
-📌 Project Description
+📌 Project Description :
 This Power BI project showcases a comprehensive interactive dashboard designed to analyze and forecast chocolate sales for "Awesome Chocolates." The dashboard provides a clear view of business performance across multiple regions, teams, and product categories. It includes historical trends and visual forecasts that help stakeholders make data-driven decisions.
 
 💡 Key Features
