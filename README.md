@@ -1,22 +1,42 @@
-📊 Sales Trend & Forecasting
-🔧 Tool: Power BI
+# 📊 Sales Performance & Forecasting Dashboard
 
-📌 Project Description :
-This Power BI project showcases a comprehensive interactive dashboard designed to analyze and forecast chocolate sales for "Awesome Chocolates." The dashboard provides a clear view of business performance across multiple regions, teams, and product categories. It includes historical trends and visual forecasts that help stakeholders make data-driven decisions.
+**Tool:** Power BI  
+**Dataset:** Chocolate Sales Data   
 
-💡 Key Features
--Sales Performance Overview: Total amount, boxes sold, customer count, and revenue per box.
--Team Analysis: Compare team performance in terms of revenue contribution.
--Geographical Insights: Breakdown of sales across regions like USA, UK, Canada, India, etc.
--Category Performance: Analyze which product categories (Bars, Bites, Others) perform best.
--Salesperson Leaderboard: View top performers by total amount and boxes sold.
--Time Series Forecasting: Visualize trends in customers and boxes sold over time, segmented by category.
+---
 
-🔍 Insights Uncovered
--The Yummies and Delish teams drive the highest revenue.
--Bars category significantly outperforms Bites and Other categories.
--All regions contribute almost equally to revenue, maintaining a balanced market share.
--Sales show strong seasonal trends, helpful for inventory and marketing planning.
+## 📌 Project Description
 
-🛠️ Skills Demonstrated
-Power BI, Data Cleaning, DAX, Time Series Forecasting, Advanced Visualizations, Business Analysis
+This Power BI project showcases an interactive and visually appealing dashboard designed to analyze and forecast sales performance for **Awesome Chocolates**. It provides in-depth insights into sales trends across regions, teams, product categories, and individual salespersons. The report supports strategic decision-making with real-time analytics and historical forecasting.
+
+---
+
+## 📈 Key Features
+
+- **Overall Performance Summary:** Total revenue, boxes sold, total customers, and revenue per box.
+- **Team-wise Analysis:** Revenue contribution by Delish, Juicies, Yummies, and Special teams.
+- **Geographical Performance:** Sales distribution across India, USA, UK, Canada, New Zealand, and Australia.
+- **Category Performance:** Sales comparison across Bars, Bites, and Others.
+- **Salesperson Leaderboard:** Ranking by total revenue and units sold.
+- **Sales Trend & Forecasting:** Monthly and quarterly trend analysis for boxes and customers by category.
+
+---
+
+## 💡 Insights Uncovered
+
+- **Yummies** team leads in total revenue, closely followed by **Delish**.
+- The **Bars** category contributes the highest sales volume.
+- Sales are well-distributed across all six regions, showing strong international presence.
+- Clear **seasonal trends** suggest increased sales in certain months, ideal for marketing and stock planning.
+
+---
+
+## 🛠️ Skills Used
+
+- Power BI
+- Data Cleaning & Transformation
+- DAX Calculations
+- Advanced Visualizations
+- Time Series Forecasting
+- Business Intelligence & Analysis
+
