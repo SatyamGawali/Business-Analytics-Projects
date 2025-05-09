@@ -1,7 +1,7 @@
-# 💼 Business Finance Insights Dashboard
+ 💼 Business Finance Insights Dashboard
 
-**Tool:** Power BI   
-**Timeline Analyzed:** Jan 2023 – Feb 2024
+Tool: Power BI   
+Timeline Analyzed:** Jan 2023 – Feb 2024
 
 ---
 
@@ -13,12 +13,12 @@ The **Business Finance Insights** dashboard provides a comprehensive financial o
 
 ## 📊 Key Features
 
-- **Total Sales vs Target Comparison:** Monthly bar chart tracking actual vs. target sales with variance percentage labels.
-- **Variance Analysis:** Detailed breakdown of monthly and year-to-date (YTD) variance amounts and percentage differences.
-- **Salesperson Table:** Individual sales performance compared against targets with trend indicators and variance visualizations.
-- **Performance Summary (Narrative):** Auto-generated insights highlighting trends, inflection points, and month-over-month comparisons.
-- **Target Achievement Tracker:** A visual summary of months where sales targets were met out of 14 months.
-- **Interactive Filters:** Filter by team (Delish, Juices, Tempo, Yummies) for detailed segment analysis.
+- Total Sales vs Target Comparison: Monthly bar chart tracking actual vs. target sales with variance percentage labels.
+- Variance Analysis: Detailed breakdown of monthly and year-to-date (YTD) variance amounts and percentage differences.
+- Salesperson Table: Individual sales performance compared against targets with trend indicators and variance visualizations.
+- Performance Summary (Narrative): Auto-generated insights highlighting trends, inflection points, and month-over-month comparisons.
+- Target Achievement Tracker:A visual summary of months where sales targets were met out of 14 months.
+- Interactive Filters:Filter by team (Delish, Juices, Tempo, Yummies) for detailed segment analysis.
 
 ---
 
